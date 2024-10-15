@@ -1,4 +1,4 @@
-- Hi, I’m @markatzgh
+- Hi, I’m Mark
 - I’m interested in Software Development
 - I’m currently learning C# and Node.js
 - Contact me at markatz.alt@gmail.com
